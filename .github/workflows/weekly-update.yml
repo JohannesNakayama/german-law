@@ -1,0 +1,17 @@
+name: Weekly Check for Law Changes
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+
+jobs:
+  download-and-commit-laws:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Test execution
+      run: |
+        cat README.md
