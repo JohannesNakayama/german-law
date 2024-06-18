@@ -4,7 +4,7 @@ set -Eeuo pipefail
 
 rm -rf german-law
 
-wget -r -l 3 -A epub -P . https://www.gesetze-im-internet.de/aktuell.html
+wget -nv -r -l 3 -A epub -P . https://www.gesetze-im-internet.de/aktuell.html
 mv www.gesetze-im-internet.de german-law
 
 echo "Processing..."
