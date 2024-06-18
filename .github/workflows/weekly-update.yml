@@ -1,8 +1,11 @@
 name: Weekly Check for Law Changes
 
-on:
-  schedule:
-    - cron: '0 0 * * 1'
+on: workflow_dispatch
+  # schedule:
+  #   - cron: '0 0 * * 1'
+
+permissions:
+  contents: write
 
 jobs:
   download-and-commit-laws:
@@ -12,6 +15,19 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v4
 
-    - name: Test execution
+    - name: Install pandoc
       run: |
-        cat README.md
+        sudo apt-get update && sudo apt-get upgrade
+        sudo apt-get install pandoc
+
+    - name: Download laws
+      run: |
+        ./run.sh
+
+    - name: Add, commit, push
+      run: |
+        git config --global user.name 'JohannesNakayama'
+        git config --global user.email '38665199+JohannesNakayama@users.noreply.github.com'
+        git add german-law
+        git commit -m "Automated update at $(date +%Y-%m-%d)"
+        git push
