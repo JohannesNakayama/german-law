@@ -2,8 +2,7 @@ name: Weekly Check for Law Changes
 
 on:
   schedule:
-    - cron: '0 2 * * 3' # run every wednesday at 2am (to test schedule, delete later)
-    # - cron: '0 0 * * 1' # run every monday at midnight
+    - cron: '0 0 * * 1' # run every monday at midnight
     # workflow_dispatch # for manual triggering
 
 permissions:
