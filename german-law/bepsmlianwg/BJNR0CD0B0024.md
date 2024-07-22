@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 21.06.2024
+##### erzeugt am: 15.07.2024
 
 </td>
 
@@ -87,7 +87,7 @@ Bundesministerium der Justiz
   
 
 ``` 
-(+++ Nachgewiesener Text noch nicht dokumentarisch bearbeitet +++)
+(+++ Textnachweis ab: 22.6.2024 +++)
 
  
 ```
