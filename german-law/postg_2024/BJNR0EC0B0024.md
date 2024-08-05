@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 18.07.2024
+##### erzeugt am: 23.07.2024
 
 </td>
 
@@ -112,7 +112,7 @@ Fassung.
   
 
 ``` 
-(+++ Nachgewiesener Text noch nicht dokumentarisch bearbeitet +++)
+(+++ Textnachweis ab: 19.7.2024 +++)
  
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
@@ -1867,6 +1867,27 @@ Satz 1 gemacht hat.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(++++ § 4 Abs. 6: Zur Geltung vgl. § 66 Abs. 2 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE000600000.html"></span>
 
 ### § 5  
@@ -2611,6 +2632,27 @@ gesichert niedergelegt.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 9: Zur Anwendung vgl. $ 112 Abs. 3 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE001100000.html"></span>
 
 ### § 10  
@@ -3340,6 +3382,27 @@ Betreiber-Zulassungsverordnung bleiben unberührt.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 16 Abs. 1: Zur Anwendung vgl. § 112 Abs. 4 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE001800000.html"></span>
 
 ### § 17  
@@ -3688,6 +3751,27 @@ kommt.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 21 Abs. 1: Zur Anwendung vgl. 112 Abs. 5 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE002300000.html"></span>
 
 ### § 22  
@@ -3720,9 +3804,33 @@ sowie die Nachfrage nach Universaldienstleistungen zu berücksichtigen.
 <div class="jurAbsatz">
 
 (2) Zur Durchsetzung von Anordnungen nach Absatz 1 Satz 1 kann nach
-Maßgabe des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von bis zu
-10 Millionen Euro festgesetzt werden. Das Zwangsgeld kann mehrfach
-festgesetzt werden.
+Maßgabe des
+<span style="font-style:italic;">Verwaltungs-Vollstreckungsgesetzes</span>
+ein Zwangsgeld von bis zu 10 Millionen Euro festgesetzt werden. Das
+Zwangsgeld kann mehrfach festgesetzt werden.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+§ 22 Abs. 2 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit
+wird die Angabe "Verwaltungsvollstreckungsgesetzes" durch die amtliche
+Bezeichnung "Verwaltungs-Vollstreckungsgesetzes" ersetzt
 
 </div>
 
@@ -5208,6 +5316,27 @@ durch das marktbeherrschende Unternehmen.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 43 Abs. 6 und 7: Zur geltung vgl. § 46 Abs. 5 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE004500000.html"></span>
 
 ### § 44  
@@ -5626,6 +5755,27 @@ bereits aus der vorherigen Regulierungsperiode übertragen wurde.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 47: Zur Anwendung vgl. § 112 Abs. 9 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE004900000.html"></span>
 
 ### § 48  
@@ -5658,6 +5808,27 @@ Entgelt an die Stelle des vereinbarten Entgelts tritt.
 Absatz 1 genehmigungsbedürftig ist, so bleibt eine vertragliche oder
 gesetzliche Beförderungspflicht bestehen; die Entgeltabrede ist bis zur
 Genehmigung des Entgelts schwebend unwirksam.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 48: Zur Geltung vgl. § 49 Abs. 4 +++)
 
 </div>
 
@@ -5744,6 +5915,27 @@ im Wettbewerb beeinträchtigt sieht, entscheidet die Bundesnetzagentur
 innerhalb von zwei Monaten, ob sie ein Verfahren der nachträglichen
 Entgeltregulierung nach Absatz 1 einleitet. Dem antragstellenden
 Anbieter ist das Ergebnis der Prüfung nach Satz 1 mitzuteilen.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 49: Zur Anwendung vgl. § 21 Abs. 2 +++)
 
 </div>
 
@@ -6014,6 +6206,28 @@ die Konformität der übermittelten Daten mit den Anforderungen des
 Absatzes 1 sowie des Kostenrechnungssystems mit allgemein anerkannten
 betriebswirtschaftlichen Grundsätzen und veröffentlicht das
 Prüfergebnis.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 52 Abs. 1 und 3: Zur Geltung vgl. § 24 Abs. 1 +++)  
+(+++ § 52 Abs. 2: Zur Geltung vgl. § 51 Abs. 2 +++)
 
 </div>
 
@@ -6344,6 +6558,27 @@ vorliegen.
 (4) Zur Durchsetzung der Anordnung nach Absatz 3 kann die
 Bundesnetzagentur nach Maßgabe des Verwaltungsvollstreckungsgesetzes ein
 Zwangsgeld von bis zu 1 Million Euro festsetzen.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 57: Zur Geltung vgl. § 26 Abs. 4 +++)
 
 </div>
 
@@ -7334,6 +7569,28 @@ unterweisen und die Unterweisung zu dokumentieren.
 
 </div>
 
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 73 Abs. 1: Zur Anwendung vgl. § § 112 Abs. 10 +++)  
+(+++ § 73 Abs. 2: Zur Anwendung vgl. § 112 Abs. 10 +++)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <span id="BJNR0EC0B0024BJNE007500000.html"></span>
 
 ### § 74  
@@ -7565,6 +7822,27 @@ Umweltzeichens fest.
 
 (5) Anbieter, die nicht unter Absatz 1 Satz 1 fallen, können freiwillig
 an der Datenerhebung nach Absatz 2 teilnehmen.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 76 Abs. 4: Zur Anwendung vgl. § § 112 Abs. 11 +++)
 
 </div>
 
@@ -7930,6 +8208,27 @@ personenbezogene Daten, selbstständig auswerten, soweit dies zur
 ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Für den
 vertraulichen Umgang mit den Akten gilt § 46 Absatz 3 des Gesetzes gegen
 Wettbewerbsbeschränkungen entsprechend.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 84 Abs. 3: Zur Anwendung vgl. § § 112 Abs. 12 +++)
 
 </div>
 
@@ -8792,6 +9091,27 @@ Die Allgemeinverfügung gilt zwei Wochen nach der Bekanntmachung im
 Amtsblatt der Bundesnetzagentur als bekannt gegeben; hierauf ist in der
 Bekanntmachung hinzuweisen. § 41 Absatz 4 Satz 4 des
 Verwaltungsverfahrensgesetzes gilt entsprechend.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+  
+**Fußnote**
+
+<div class="jnhtml">
+
+<div>
+
+<div class="jurAbsatz">
+
+(+++ § 97: Zur Geltung vgl. § 102 Abs. 2 +++)
 
 </div>
 
