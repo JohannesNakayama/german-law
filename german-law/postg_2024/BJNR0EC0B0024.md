@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 23.07.2024
+##### erzeugt am: 30.09.2024
 
 </td>
 
@@ -81,7 +81,7 @@ Bundesministerium der Justiz
 
 <div class="jurAbsatz">
 
-Dieses Gesetzes dient der Umsetzung der Richtlinie 97/67/EG des
+Dieses Gesetz dient der Umsetzung der Richtlinie 97/67/EG des
 Europäischen Parlaments und des Rates vom 15. Dezember 1997 über
 gemeinsame Vorschriften für die Entwicklung der Postdienste der
 Gemeinschaft und die Verbesserung der Dienstequalität in der durch die
