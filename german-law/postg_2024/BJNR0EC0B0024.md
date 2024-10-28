@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 30.09.2024
+##### erzeugt am: 24.10.2024
 
 </td>
 
@@ -113,6 +113,8 @@ Fassung.
 
 ``` 
 (+++ Textnachweis ab: 19.7.2024 +++)
+ 
+(+++ Zur Anwendung vgl. §§ 4, 9, 16, 18, 21, 40, 43, 47, 48, 49, 52, 57, 72, 76, 84, 97 +++)
  
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
@@ -1878,7 +1880,8 @@ Satz 1 gemacht hat.
 
 <div class="jurAbsatz">
 
-(++++ § 4 Abs. 6: Zur Geltung vgl. § 66 Abs. 2 +++)
+(++++ § 4 Abs. 6: Zur Geltung vgl. § 66 Abs. 2 +++)  
+(++++ § 4 Abs. 6: Zur Geltung vgl. § 89 Abs. 2 +++)
 
 </div>
 

@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 30.06.2024
+##### erzeugt am: 24.10.2024
 
 </td>
 
@@ -88,6 +88,8 @@ Bundesministerium der Justiz
 
 ``` 
 (+++ Textnachweis ab: 1.7.2024 +++)
+ 
+(+++ Zur Anwemdung vgl. § 15 +++)
 
  
 ```
