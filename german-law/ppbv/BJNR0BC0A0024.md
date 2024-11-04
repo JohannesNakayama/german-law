@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 24.10.2024
+##### erzeugt am: 30.10.2024
 
 </td>
 
@@ -3089,7 +3089,7 @@ Patienten auf Station/in das Zimmer mind. 4 x tägl.
 
 <tr>
 
-<th style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ;  font-weight:normal;" align="center" valign="bottom" charoff="50">
+<th style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ;  font-weight:normal;" align="center" valign="bottom" class="tdDiagonalFalling" charoff="50">
 
 <span style=";font-weight:bold">    Leistungs-</span>  
 <span style=";font-weight:bold">     stufen</span>  
