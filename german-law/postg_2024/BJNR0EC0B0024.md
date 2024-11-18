@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 24.10.2024
+##### erzeugt am: 13.11.2024
 
 </td>
 
@@ -114,7 +114,8 @@ Fassung.
 ``` 
 (+++ Textnachweis ab: 19.7.2024 +++)
  
-(+++ Zur Anwendung vgl. §§ 4, 9, 16, 18, 21, 40, 43, 47, 48, 49, 52, 57, 72, 76, 84, 97 +++)
+(+++ Zur Anwendung vgl. §§ 4, 9, 16, 18, 21, 40, 43, 47, 48, 49, 52, 57, 73, 
+76, 84, 97 +++)
  
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
