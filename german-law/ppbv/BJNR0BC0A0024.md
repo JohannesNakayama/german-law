@@ -32,7 +32,7 @@
 
 <td colspan="2">
 
-##### Pflegepersonalbemessungsverordnung vom 12. Juni 2024 (BGBl. 2024 I Nr. 188)
+##### Pflegepersonalbemessungsverordnung vom 12. Juni 2024 (BGBl. 2024 I Nr. 188), die durch Artikel 5b des Gesetzes vom 5. Dezember 2024 (BGBl. 2024 I Nr. 400) geändert worden ist
 
 </td>
 
@@ -61,7 +61,7 @@ Bundesministerium der Justiz
   
   
 
-##### erzeugt am: 30.10.2024
+##### erzeugt am: 11.12.2024
 
 </td>
 
@@ -72,6 +72,18 @@ Bundesministerium der Justiz
 <span id="BJNR0BC0A0024.html"></span>
 
 # Verordnung über die Grundsätze der Personalbedarfsbemessung in der stationären Krankenpflege (Pflegepersonalbemessungsverordnung - PPBV)
+
+<div>
+
+<div class="jnhtml">
+
+|          |                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Hinweis: | Änderung durch Art. 5b G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet |
+
+</div>
+
+</div>
 
 <div>
 
@@ -180,7 +192,7 @@ Verordnung ausgenommen.
 
 </div>
 
-<span id="BJNR0BC0A0024BJNE000300000.html"></span>
+<span id="BJNR0BC0A0024BJNE000301126.html"></span>
 
 ### § 2  
 Begriffsbestimmungen
@@ -217,7 +229,7 @@ fortgilt.
 
   - 1\.
     
-    <div>
+    <div style="">
     
     die erfolgreich eine landesrechtlich geregelte Assistenz- oder
     Helferausbildung in der Pflege von mindestens einjähriger Dauer
@@ -227,7 +239,7 @@ fortgilt.
 
   - 2\.
     
-    <div>
+    <div style="">
     
     die erfolgreich eine landesrechtlich geregelte Ausbildung in der
     Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens
@@ -237,7 +249,7 @@ fortgilt.
 
   - 3\.
     
-    <div>
+    <div style="">
     
     der auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985
     (BGBl. I S. 893) in der am 31. Dezember 2003 geltenden Fassung eine
@@ -248,13 +260,13 @@ fortgilt.
 
   - 4\.
     
-    <div>
+    <div style="">
     
     die einer der folgenden Personengruppen angehört:
     
       - a)
         
-        <div>
+        <div style="">
         
         Medizinische Fachangestellte, die erfolgreich eine Ausbildung
         nach der Verordnung über die Berufsausbildung zum Medizinischen
@@ -266,7 +278,7 @@ fortgilt.
     
       - b)
         
-        <div>
+        <div style="">
         
         Anästhesietechnische Assistentinnen und Anästhesietechnische
         Assistenten, die über eine Erlaubnis zum Führen der
@@ -277,7 +289,7 @@ fortgilt.
     
       - c)
         
-        <div>
+        <div style="">
         
         Notfallsanitäterinnen und Notfallsanitäter, denen auf Grundlage
         des Notfallsanitätergesetzes eine Erlaubnis zum Führen der
@@ -301,13 +313,7 @@ des Hebammengesetzes.
 <div class="jurAbsatz">
 
 (5) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt
-sich nach § 2 der Vereinbarung über die Definition von Standorten der
-Krankenhäuser und ihrer Ambulanzen gemäß § 2a Absatz 1 des
-Krankenhausfinanzierungsgesetzes zwischen dem GKV-Spitzenverband KdöR,
-Berlin, und der Deutschen Krankenhausgesellschaft e.V., Berlin, vom 29.
-August 2017, die auf der Internetseite der Deutschen
-Krankenhausgesellschaft<!-- FNR_Anker --><sup><!-- FNR_Pos -->\*</sup>
-veröffentlicht ist.
+sich nach § 2a des Krankenhausfinanzierungsgesetzes.
 
 </div>
 
@@ -379,11 +385,6 @@ achtzehnte Lebensjahr vollendet haben.
 </div>
 
 </div>
-
-  - <span id="BJNR0BC0A0024BJNE000300000.html#F830285_01"></span><!-- FNR_Pos --><span>\*
-    </span>  
-    Amtlicher Hinweis: die Vereinbarung ist abrufbar unter
-    https://www.dkgev.de/fileadmin/default/Mediapool/2\_Themen/2.1\_Digitalisierung\_Daten/2.1.2.\_Informationstechnik\_im\_Krankenhaus/2.1.2.1.\_Verzeichnisse\_und\_Register/Vereinbarungen\_Standortdefinition.pdf
 
 </div>
 
